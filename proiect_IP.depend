@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1547573818 source:d:\cpp\proiect_ip\main.cpp
+	<iostream>
+	<fstream>
+	<winbgim.h>
+	<stdlib.h>
+	<deque>
+	<Windows.h>
+	<mmsystem.h>
+
+1547659046 source:d:\cpp\b3_craciun_arghir\main.cpp
+	<iostream>
+	<fstream>
+	<winbgim.h>
+	<stdlib.h>
+	<deque>
+	<Windows.h>
+	<mmsystem.h>
+
